@@ -1,0 +1,892 @@
+,PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Survived
+0,1,Classe econômica,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,,S,0
+1,2,Primeira classe,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,C,1
+2,3,Classe econômica,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,,S,1
+3,4,Primeira classe,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,C123,S,1
+4,5,Classe econômica,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,,S,0
+5,6,Classe econômica,"Moran, Mr. James",male,,0,0,330877,8.4583,,Q,0
+6,7,Primeira classe,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,S,0
+7,8,Classe econômica,"Palsson, Master. Gosta Leonard",male,2.0,3,1,349909,21.075,,S,0
+8,9,Classe econômica,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,347742,11.1333,,S,1
+9,10,Classe econômica premium,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,30.0708,,C,1
+10,11,Classe econômica,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,G6,S,1
+11,12,Primeira classe,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,26.55,C103,S,1
+12,13,Classe econômica,"Saundercock, Mr. William Henry",male,20.0,0,0,A/5. 2151,8.05,,S,0
+13,14,Classe econômica,"Andersson, Mr. Anders Johan",male,39.0,1,5,347082,31.275,,S,0
+14,15,Classe econômica,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,350406,7.8542,,S,0
+15,16,Classe econômica premium,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,16.0,,S,1
+16,17,Classe econômica,"Rice, Master. Eugene",male,2.0,4,1,382652,29.125,,Q,0
+17,18,Classe econômica premium,"Williams, Mr. Charles Eugene",male,,0,0,244373,13.0,,S,1
+18,19,Classe econômica,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,,S,0
+19,20,Classe econômica,"Masselmani, Mrs. Fatima",female,,0,0,2649,7.225,,C,1
+20,21,Classe econômica premium,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,26.0,,S,0
+21,22,Classe econômica premium,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,D56,S,1
+22,23,Classe econômica,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,,Q,1
+23,24,Primeira classe,"Sloper, Mr. William Thompson",male,28.0,0,0,113788,35.5,A6,S,1
+24,25,Classe econômica,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,21.075,,S,0
+25,26,Classe econômica,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,,S,1
+26,27,Classe econômica,"Emir, Mr. Farred Chehab",male,,0,0,2631,7.225,,C,0
+27,28,Primeira classe,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,263.0,C23 C25 C27,S,0
+28,29,Classe econômica,"O'Dwyer, Miss. Ellen ""Nellie""",female,,0,0,330959,7.8792,,Q,1
+29,30,Classe econômica,"Todoroff, Mr. Lalio",male,,0,0,349216,7.8958,,S,0
+30,31,Primeira classe,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,,C,0
+31,32,Primeira classe,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,,1,0,PC 17569,146.5208,B78,C,1
+32,33,Classe econômica,"Glynn, Miss. Mary Agatha",female,,0,0,335677,7.75,,Q,1
+33,34,Classe econômica premium,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,10.5,,S,0
+34,35,Primeira classe,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,82.1708,,C,0
+35,36,Primeira classe,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,113789,52.0,,S,0
+36,37,Classe econômica,"Mamee, Mr. Hanna",male,,0,0,2677,7.2292,,C,1
+37,38,Classe econômica,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,8.05,,S,0
+38,39,Classe econômica,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,345764,18.0,,S,0
+39,40,Classe econômica,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,,C,1
+40,41,Classe econômica,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9.475,,S,0
+41,42,Classe econômica premium,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,11668,21.0,,S,0
+42,43,Classe econômica,"Kraeff, Mr. Theodor",male,,0,0,349253,7.8958,,C,0
+43,44,Classe econômica premium,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,,C,1
+44,45,Classe econômica,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,,Q,1
+45,46,Classe econômica,"Rogers, Mr. William John",male,,0,0,S.C./A.4. 23567,8.05,,S,0
+46,47,Classe econômica,"Lennon, Mr. Denis",male,,1,0,370371,15.5,,Q,0
+47,48,Classe econômica,"O'Driscoll, Miss. Bridget",female,,0,0,14311,7.75,,Q,1
+48,49,Classe econômica,"Samaan, Mr. Youssef",male,,2,0,2662,21.6792,,C,0
+49,50,Classe econômica,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,349237,17.8,,S,0
+50,51,Classe econômica,"Panula, Master. Juha Niilo",male,7.0,4,1,3101295,39.6875,,S,0
+51,52,Classe econômica,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,A/4. 39886,7.8,,S,0
+52,53,Primeira classe,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,D33,C,1
+53,54,Classe econômica premium,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,26.0,,S,1
+54,55,Primeira classe,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,61.9792,B30,C,0
+55,56,Primeira classe,"Woolner, Mr. Hugh",male,,0,0,19947,35.5,C52,S,1
+56,57,Classe econômica premium,"Rugg, Miss. Emily",female,21.0,0,0,C.A. 31026,10.5,,S,1
+57,58,Classe econômica,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,,C,0
+58,59,Classe econômica premium,"West, Miss. Constance Mirium",female,5.0,1,2,C.A. 34651,27.75,,S,1
+59,60,Classe econômica,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,46.9,,S,0
+60,61,Classe econômica,"Sirayanian, Mr. Orsen",male,22.0,0,0,2669,7.2292,,C,0
+61,62,Primeira classe,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,B28,,1
+62,63,Primeira classe,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,83.475,C83,S,0
+63,64,Classe econômica,"Skoog, Master. Harald",male,4.0,3,2,347088,27.9,,S,0
+64,65,Primeira classe,"Stewart, Mr. Albert A",male,,0,0,PC 17605,27.7208,,C,0
+65,66,Classe econômica,"Moubarek, Master. Gerios",male,,1,1,2661,15.2458,,C,1
+66,67,Classe econômica premium,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,10.5,F33,S,1
+67,68,Classe econômica,"Crease, Mr. Ernest James",male,19.0,0,0,S.P. 3464,8.1583,,S,0
+68,69,Classe econômica,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,7.925,,S,1
+69,70,Classe econômica,"Kink, Mr. Vincenz",male,26.0,2,0,315151,8.6625,,S,0
+70,71,Classe econômica premium,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,C.A. 33111,10.5,,S,0
+71,72,Classe econômica,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,CA 2144,46.9,,S,0
+72,73,Classe econômica premium,"Hood, Mr. Ambrose Jr",male,21.0,0,0,S.O.C. 14879,73.5,,S,0
+73,74,Classe econômica,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,2680,14.4542,,C,0
+74,75,Classe econômica,"Bing, Mr. Lee",male,32.0,0,0,1601,56.4958,,S,1
+75,76,Classe econômica,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,348123,7.65,F G73,S,0
+76,77,Classe econômica,"Staneff, Mr. Ivan",male,,0,0,349208,7.8958,,S,0
+77,78,Classe econômica,"Moutal, Mr. Rahamin Haim",male,,0,0,374746,8.05,,S,0
+78,79,Classe econômica premium,"Caldwell, Master. Alden Gates",male,0.83,0,2,248738,29.0,,S,1
+79,80,Classe econômica,"Dowdell, Miss. Elizabeth",female,30.0,0,0,364516,12.475,,S,1
+80,81,Classe econômica,"Waelens, Mr. Achille",male,22.0,0,0,345767,9.0,,S,0
+81,82,Classe econômica,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,345779,9.5,,S,1
+82,83,Classe econômica,"McDermott, Miss. Brigdet Delia",female,,0,0,330932,7.7875,,Q,1
+83,84,Primeira classe,"Carrau, Mr. Francisco M",male,28.0,0,0,113059,47.1,,S,0
+84,85,Classe econômica premium,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,,S,1
+85,86,Classe econômica,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,3101278,15.85,,S,1
+86,87,Classe econômica,"Ford, Mr. William Neal",male,16.0,1,3,W./C. 6608,34.375,,S,0
+87,88,Classe econômica,"Slocovski, Mr. Selman Francis",male,,0,0,SOTON/OQ 392086,8.05,,S,0
+88,89,Primeira classe,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,C23 C25 C27,S,1
+89,90,Classe econômica,"Celotti, Mr. Francesco",male,24.0,0,0,343275,8.05,,S,0
+90,91,Classe econômica,"Christmann, Mr. Emil",male,29.0,0,0,343276,8.05,,S,0
+91,92,Classe econômica,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,347466,7.8542,,S,0
+92,93,Primeira classe,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61.175,E31,S,0
+93,94,Classe econômica,"Dean, Mr. Bertram Frank",male,26.0,1,2,C.A. 2315,20.575,,S,0
+94,95,Classe econômica,"Coxon, Mr. Daniel",male,59.0,0,0,364500,7.25,,S,0
+95,96,Classe econômica,"Shorney, Mr. Charles Joseph",male,,0,0,374910,8.05,,S,0
+96,97,Primeira classe,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,34.6542,A5,C,0
+97,98,Primeira classe,"Greenfield, Mr. William Bertram",male,23.0,0,1,PC 17759,63.3583,D10 D12,C,1
+98,99,Classe econômica premium,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,231919,23.0,,S,1
+99,100,Classe econômica premium,"Kantor, Mr. Sinai",male,34.0,1,0,244367,26.0,,S,0
+100,101,Classe econômica,"Petranec, Miss. Matilda",female,28.0,0,0,349245,7.8958,,S,0
+101,102,Classe econômica,"Petroff, Mr. Pastcho (""Pentcho"")",male,,0,0,349215,7.8958,,S,0
+102,103,Primeira classe,"White, Mr. Richard Frasar",male,21.0,0,1,35281,77.2875,D26,S,0
+103,104,Classe econômica,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,7540,8.6542,,S,0
+104,105,Classe econômica,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,3101276,7.925,,S,0
+105,106,Classe econômica,"Mionoff, Mr. Stoytcho",male,28.0,0,0,349207,7.8958,,S,0
+106,107,Classe econômica,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,,S,1
+107,108,Classe econômica,"Moss, Mr. Albert Johan",male,,0,0,312991,7.775,,S,1
+108,109,Classe econômica,"Rekic, Mr. Tido",male,38.0,0,0,349249,7.8958,,S,0
+109,110,Classe econômica,"Moran, Miss. Bertha",female,,1,0,371110,24.15,,Q,1
+110,111,Primeira classe,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,110465,52.0,C110,S,0
+111,112,Classe econômica,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,,C,0
+112,113,Classe econômica,"Barton, Mr. David John",male,22.0,0,0,324669,8.05,,S,0
+113,114,Classe econômica,"Jussila, Miss. Katriina",female,20.0,1,0,4136,9.825,,S,0
+114,115,Classe econômica,"Attalah, Miss. Malake",female,17.0,0,0,2627,14.4583,,C,0
+115,116,Classe econômica,"Pekoniemi, Mr. Edvard",male,21.0,0,0,STON/O 2. 3101294,7.925,,S,0
+116,117,Classe econômica,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,,Q,0
+117,118,Classe econômica premium,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,21.0,,S,0
+118,119,Primeira classe,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,B58 B60,C,0
+119,120,Classe econômica,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,347082,31.275,,S,0
+120,121,Classe econômica premium,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,73.5,,S,0
+121,122,Classe econômica,"Moore, Mr. Leonard Charles",male,,0,0,A4. 54510,8.05,,S,0
+122,123,Classe econômica premium,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,,C,0
+123,124,Classe econômica premium,"Webber, Miss. Susan",female,32.5,0,0,27267,13.0,E101,S,1
+124,125,Primeira classe,"White, Mr. Percival Wayland",male,54.0,0,1,35281,77.2875,D26,S,0
+125,126,Classe econômica,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,11.2417,,C,1
+126,127,Classe econômica,"McMahon, Mr. Martin",male,,0,0,370372,7.75,,Q,0
+127,128,Classe econômica,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,C 17369,7.1417,,S,1
+128,129,Classe econômica,"Peter, Miss. Anna",female,,1,1,2668,22.3583,F E69,C,1
+129,130,Classe econômica,"Ekstrom, Mr. Johan",male,45.0,0,0,347061,6.975,,S,0
+130,131,Classe econômica,"Drazenoic, Mr. Jozef",male,33.0,0,0,349241,7.8958,,C,0
+131,132,Classe econômica,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,SOTON/O.Q. 3101307,7.05,,S,0
+132,133,Classe econômica,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,A/5. 3337,14.5,,S,0
+133,134,Classe econômica premium,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,26.0,,S,1
+134,135,Classe econômica premium,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,C.A. 29178,13.0,,S,0
+135,136,Classe econômica premium,"Richard, Mr. Emile",male,23.0,0,0,SC/PARIS 2133,15.0458,,C,0
+136,137,Primeira classe,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,11752,26.2833,D47,S,1
+137,138,Primeira classe,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,53.1,C123,S,0
+138,139,Classe econômica,"Osen, Mr. Olaf Elon",male,16.0,0,0,7534,9.2167,,S,0
+139,140,Primeira classe,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,79.2,B86,C,0
+140,141,Classe econômica,"Boulos, Mrs. Joseph (Sultana)",female,,0,2,2678,15.2458,,C,0
+141,142,Classe econômica,"Nysten, Miss. Anna Sofia",female,22.0,0,0,347081,7.75,,S,1
+142,143,Classe econômica,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,15.85,,S,1
+143,144,Classe econômica,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,,Q,0
+144,145,Classe econômica premium,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,231945,11.5,,S,0
+145,146,Classe econômica premium,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,C.A. 33112,36.75,,S,0
+146,147,Classe econômica,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,350043,7.7958,,S,1
+147,148,Classe econômica,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,W./C. 6608,34.375,,S,0
+148,149,Classe econômica premium,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26.0,F2,S,0
+149,150,Classe econômica premium,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,244310,13.0,,S,0
+150,151,Classe econômica premium,"Bateman, Rev. Robert James",male,51.0,0,0,S.O.P. 1166,12.525,,S,0
+151,152,Primeira classe,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,C2,S,1
+152,153,Classe econômica,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,,S,0
+153,154,Classe econômica,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,,S,0
+154,155,Classe econômica,"Olsen, Mr. Ole Martin",male,,0,0,Fa 265302,7.3125,,S,0
+155,156,Primeira classe,"Williams, Mr. Charles Duane",male,51.0,0,1,PC 17597,61.3792,,C,0
+156,157,Classe econômica,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,,Q,1
+157,158,Classe econômica,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,,S,0
+158,159,Classe econômica,"Smiljanic, Mr. Mile",male,,0,0,315037,8.6625,,S,0
+159,160,Classe econômica,"Sage, Master. Thomas Henry",male,,8,2,CA. 2343,69.55,,S,0
+160,161,Classe econômica,"Cribb, Mr. John Hatfield",male,44.0,0,1,371362,16.1,,S,0
+161,162,Classe econômica premium,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,C.A. 33595,15.75,,S,1
+162,163,Classe econômica,"Bengtsson, Mr. John Viktor",male,26.0,0,0,347068,7.775,,S,0
+163,164,Classe econômica,"Calic, Mr. Jovo",male,17.0,0,0,315093,8.6625,,S,0
+164,165,Classe econômica,"Panula, Master. Eino Viljami",male,1.0,4,1,3101295,39.6875,,S,0
+165,166,Classe econômica,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,20.525,,S,1
+166,167,Primeira classe,"Chibnall, Mrs. (Edith Martha Bowerman)",female,,0,1,113505,55.0,E33,S,1
+167,168,Classe econômica,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,347088,27.9,,S,0
+168,169,Primeira classe,"Baumann, Mr. John D",male,,0,0,PC 17318,25.925,,S,0
+169,170,Classe econômica,"Ling, Mr. Lee",male,28.0,0,0,1601,56.4958,,S,0
+170,171,Primeira classe,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,33.5,B19,S,0
+171,172,Classe econômica,"Rice, Master. Arthur",male,4.0,4,1,382652,29.125,,Q,0
+172,173,Classe econômica,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,347742,11.1333,,S,1
+173,174,Classe econômica,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,STON/O 2. 3101280,7.925,,S,0
+174,175,Primeira classe,"Smith, Mr. James Clinch",male,56.0,0,0,17764,30.6958,A7,C,0
+175,176,Classe econômica,"Klasen, Mr. Klas Albin",male,18.0,1,1,350404,7.8542,,S,0
+176,177,Classe econômica,"Lefebre, Master. Henry Forbes",male,,3,1,4133,25.4667,,S,0
+177,178,Primeira classe,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,PC 17595,28.7125,C49,C,0
+178,179,Classe econômica premium,"Hale, Mr. Reginald",male,30.0,0,0,250653,13.0,,S,0
+179,180,Classe econômica,"Leonard, Mr. Lionel",male,36.0,0,0,LINE,0.0,,S,0
+180,181,Classe econômica,"Sage, Miss. Constance Gladys",female,,8,2,CA. 2343,69.55,,S,0
+181,182,Classe econômica premium,"Pernot, Mr. Rene",male,,0,0,SC/PARIS 2131,15.05,,C,0
+182,183,Classe econômica,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,347077,31.3875,,S,0
+183,184,Classe econômica premium,"Becker, Master. Richard F",male,1.0,2,1,230136,39.0,F4,S,1
+184,185,Classe econômica,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,,S,1
+185,186,Primeira classe,"Rood, Mr. Hugh Roscoe",male,,0,0,113767,50.0,A32,S,0
+186,187,Classe econômica,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,,1,0,370365,15.5,,Q,1
+187,188,Primeira classe,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,111428,26.55,,S,1
+188,189,Classe econômica,"Bourke, Mr. John",male,40.0,1,1,364849,15.5,,Q,0
+189,190,Classe econômica,"Turcin, Mr. Stjepan",male,36.0,0,0,349247,7.8958,,S,0
+190,191,Classe econômica premium,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,234604,13.0,,S,1
+191,192,Classe econômica premium,"Carbines, Mr. William",male,19.0,0,0,28424,13.0,,S,0
+192,193,Classe econômica,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,350046,7.8542,,S,1
+193,194,Classe econômica premium,"Navratil, Master. Michel M",male,3.0,1,1,230080,26.0,F2,S,1
+194,195,Primeira classe,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,27.7208,B4,C,1
+195,196,Primeira classe,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,146.5208,B80,C,1
+196,197,Classe econômica,"Mernagh, Mr. Robert",male,,0,0,368703,7.75,,Q,0
+197,198,Classe econômica,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,4579,8.4042,,S,0
+198,199,Classe econômica,"Madigan, Miss. Margaret ""Maggie""",female,,0,0,370370,7.75,,Q,1
+199,200,Classe econômica premium,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,248747,13.0,,S,0
+200,201,Classe econômica,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,0,345770,9.5,,S,0
+201,202,Classe econômica,"Sage, Mr. Frederick",male,,8,2,CA. 2343,69.55,,S,0
+202,203,Classe econômica,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,3101264,6.4958,,S,0
+203,204,Classe econômica,"Youseff, Mr. Gerious",male,45.5,0,0,2628,7.225,,C,0
+204,205,Classe econômica,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,A/5 3540,8.05,,S,1
+205,206,Classe econômica,"Strom, Miss. Telma Matilda",female,2.0,0,1,347054,10.4625,G6,S,0
+206,207,Classe econômica,"Backstrom, Mr. Karl Alfred",male,32.0,1,0,3101278,15.85,,S,0
+207,208,Classe econômica,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,2699,18.7875,,C,1
+208,209,Classe econômica,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,,Q,1
+209,210,Primeira classe,"Blank, Mr. Henry",male,40.0,0,0,112277,31.0,A31,C,1
+210,211,Classe econômica,"Ali, Mr. Ahmed",male,24.0,0,0,SOTON/O.Q. 3101311,7.05,,S,0
+211,212,Classe econômica premium,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,21.0,,S,1
+212,213,Classe econômica,"Perkin, Mr. John Henry",male,22.0,0,0,A/5 21174,7.25,,S,0
+213,214,Classe econômica premium,"Givard, Mr. Hans Kristensen",male,30.0,0,0,250646,13.0,,S,0
+214,215,Classe econômica,"Kiernan, Mr. Philip",male,,1,0,367229,7.75,,Q,0
+215,216,Primeira classe,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,D36,C,1
+216,217,Classe econômica,"Honkanen, Miss. Eliina",female,27.0,0,0,STON/O2. 3101283,7.925,,S,1
+217,218,Classe econômica premium,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,0,243847,27.0,,S,0
+218,219,Primeira classe,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,D15,C,1
+219,220,Classe econômica premium,"Harris, Mr. Walter",male,30.0,0,0,W/C 14208,10.5,,S,0
+220,221,Classe econômica,"Sunderland, Mr. Victor Francis",male,16.0,0,0,SOTON/OQ 392089,8.05,,S,1
+221,222,Classe econômica premium,"Bracken, Mr. James H",male,27.0,0,0,220367,13.0,,S,0
+222,223,Classe econômica,"Green, Mr. George Henry",male,51.0,0,0,21440,8.05,,S,0
+223,224,Classe econômica,"Nenkoff, Mr. Christo",male,,0,0,349234,7.8958,,S,0
+224,225,Primeira classe,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,19943,90.0,C93,S,1
+225,226,Classe econômica,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,PP 4348,9.35,,S,0
+226,227,Classe econômica premium,"Mellors, Mr. William John",male,19.0,0,0,SW/PP 751,10.5,,S,1
+227,228,Classe econômica,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,A/5 21173,7.25,,S,0
+228,229,Classe econômica premium,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,0,236171,13.0,,S,0
+229,230,Classe econômica,"Lefebre, Miss. Mathilde",female,,3,1,4133,25.4667,,S,0
+230,231,Primeira classe,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,83.475,C83,S,1
+231,232,Classe econômica,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,347067,7.775,,S,0
+232,233,Classe econômica premium,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,0,237442,13.5,,S,0
+233,234,Classe econômica,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,347077,31.3875,,S,1
+234,235,Classe econômica premium,"Leyson, Mr. Robert William Norman",male,24.0,0,0,C.A. 29566,10.5,,S,0
+235,236,Classe econômica,"Harknett, Miss. Alice Phoebe",female,,0,0,W./C. 6609,7.55,,S,0
+236,237,Classe econômica premium,"Hold, Mr. Stephen",male,44.0,1,0,26707,26.0,,S,0
+237,238,Classe econômica premium,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,C.A. 31921,26.25,,S,1
+238,239,Classe econômica premium,"Pengelly, Mr. Frederick William",male,19.0,0,0,28665,10.5,,S,0
+239,240,Classe econômica premium,"Hunt, Mr. George Henry",male,33.0,0,0,SCO/W 1585,12.275,,S,0
+240,241,Classe econômica,"Zabour, Miss. Thamine",female,,1,0,2665,14.4542,,C,0
+241,242,Classe econômica,"Murphy, Miss. Katherine ""Kate""",female,,1,0,367230,15.5,,Q,1
+242,243,Classe econômica premium,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,W./C. 14263,10.5,,S,0
+243,244,Classe econômica,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,0,STON/O 2. 3101275,7.125,,S,0
+244,245,Classe econômica,"Attalah, Mr. Sleiman",male,30.0,0,0,2694,7.225,,C,0
+245,246,Primeira classe,"Minahan, Dr. William Edward",male,44.0,2,0,19928,90.0,C78,Q,0
+246,247,Classe econômica,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,0,347071,7.775,,S,0
+247,248,Classe econômica premium,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,250649,14.5,,S,1
+248,249,Primeira classe,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,11751,52.5542,D35,S,1
+249,250,Classe econômica premium,"Carter, Rev. Ernest Courtenay",male,54.0,1,0,244252,26.0,,S,0
+250,251,Classe econômica,"Reed, Mr. James George",male,,0,0,362316,7.25,,S,0
+251,252,Classe econômica,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,347054,10.4625,G6,S,0
+252,253,Primeira classe,"Stead, Mr. William Thomas",male,62.0,0,0,113514,26.55,C87,S,0
+253,254,Classe econômica,"Lobb, Mr. William Arthur",male,30.0,1,0,A/5. 3336,16.1,,S,0
+254,255,Classe econômica,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,370129,20.2125,,S,0
+255,256,Classe econômica,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,15.2458,,C,1
+256,257,Primeira classe,"Thorne, Mrs. Gertrude Maybelle",female,,0,0,PC 17585,79.2,,C,1
+257,258,Primeira classe,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,B77,S,1
+258,259,Primeira classe,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,512.3292,,C,1
+259,260,Classe econômica premium,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,230433,26.0,,S,1
+260,261,Classe econômica,"Smith, Mr. Thomas",male,,0,0,384461,7.75,,Q,0
+261,262,Classe econômica,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,347077,31.3875,,S,1
+262,263,Primeira classe,"Taussig, Mr. Emil",male,52.0,1,1,110413,79.65,E67,S,0
+263,264,Primeira classe,"Harrison, Mr. William",male,40.0,0,0,112059,0.0,B94,S,0
+264,265,Classe econômica,"Henry, Miss. Delia",female,,0,0,382649,7.75,,Q,0
+265,266,Classe econômica premium,"Reeves, Mr. David",male,36.0,0,0,C.A. 17248,10.5,,S,0
+266,267,Classe econômica,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,3101295,39.6875,,S,0
+267,268,Classe econômica,"Persson, Mr. Ernst Ulrik",male,25.0,1,0,347083,7.775,,S,1
+268,269,Primeira classe,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,153.4625,C125,S,1
+269,270,Primeira classe,"Bissette, Miss. Amelia",female,35.0,0,0,PC 17760,135.6333,C99,S,1
+270,271,Primeira classe,"Cairns, Mr. Alexander",male,,0,0,113798,31.0,,S,0
+271,272,Classe econômica,"Tornquist, Mr. William Henry",male,25.0,0,0,LINE,0.0,,S,1
+272,273,Classe econômica premium,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,250644,19.5,,S,1
+273,274,Primeira classe,"Natsch, Mr. Charles H",male,37.0,0,1,PC 17596,29.7,C118,C,0
+274,275,Classe econômica,"Healy, Miss. Hanora ""Nora""",female,,0,0,370375,7.75,,Q,1
+275,276,Primeira classe,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,77.9583,D7,S,1
+276,277,Classe econômica,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,347073,7.75,,S,0
+277,278,Classe econômica premium,"Parkes, Mr. Francis ""Frank""",male,,0,0,239853,0.0,,S,0
+278,279,Classe econômica,"Rice, Master. Eric",male,7.0,4,1,382652,29.125,,Q,0
+279,280,Classe econômica,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,C.A. 2673,20.25,,S,1
+280,281,Classe econômica,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,,Q,0
+281,282,Classe econômica,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,0,347464,7.8542,,S,0
+282,283,Classe econômica,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,345778,9.5,,S,0
+283,284,Classe econômica,"Dorking, Mr. Edward Arthur",male,19.0,0,0,A/5. 10482,8.05,,S,1
+284,285,Primeira classe,"Smith, Mr. Richard William",male,,0,0,113056,26.0,A19,S,0
+285,286,Classe econômica,"Stankovic, Mr. Ivan",male,33.0,0,0,349239,8.6625,,C,0
+286,287,Classe econômica,"de Mulder, Mr. Theodore",male,30.0,0,0,345774,9.5,,S,1
+287,288,Classe econômica,"Naidenoff, Mr. Penko",male,22.0,0,0,349206,7.8958,,S,0
+288,289,Classe econômica premium,"Hosono, Mr. Masabumi",male,42.0,0,0,237798,13.0,,S,1
+289,290,Classe econômica,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,,Q,1
+290,291,Primeira classe,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,19877,78.85,,S,1
+291,292,Primeira classe,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,91.0792,B49,C,1
+292,293,Classe econômica premium,"Levy, Mr. Rene Jacques",male,36.0,0,0,SC/Paris 2163,12.875,D,C,0
+293,294,Classe econômica,"Haas, Miss. Aloisia",female,24.0,0,0,349236,8.85,,S,0
+294,295,Classe econômica,"Mineff, Mr. Ivan",male,24.0,0,0,349233,7.8958,,S,0
+295,296,Primeira classe,"Lewy, Mr. Ervin G",male,,0,0,PC 17612,27.7208,,C,0
+296,297,Classe econômica,"Hanna, Mr. Mansour",male,23.5,0,0,2693,7.2292,,C,0
+297,298,Primeira classe,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,151.55,C22 C26,S,0
+298,299,Primeira classe,"Saalfeld, Mr. Adolphe",male,,0,0,19988,30.5,C106,S,1
+299,300,Primeira classe,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,B58 B60,C,1
+300,301,Classe econômica,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,,0,0,9234,7.75,,Q,1
+301,302,Classe econômica,"McCoy, Mr. Bernard",male,,2,0,367226,23.25,,Q,1
+302,303,Classe econômica,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,LINE,0.0,,S,0
+303,304,Classe econômica premium,"Keane, Miss. Nora A",female,,0,0,226593,12.35,E101,Q,1
+304,305,Classe econômica,"Williams, Mr. Howard Hugh ""Harry""",male,,0,0,A/5 2466,8.05,,S,0
+305,306,Primeira classe,"Allison, Master. Hudson Trevor",male,0.92,1,2,113781,151.55,C22 C26,S,1
+306,307,Primeira classe,"Fleming, Miss. Margaret",female,,0,0,17421,110.8833,,C,1
+307,308,Primeira classe,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,108.9,C65,C,1
+308,309,Classe econômica premium,"Abelson, Mr. Samuel",male,30.0,1,0,P/PP 3381,24.0,,C,0
+309,310,Primeira classe,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,E36,C,1
+310,311,Primeira classe,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,83.1583,C54,C,1
+311,312,Primeira classe,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,1
+312,313,Classe econômica premium,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,250651,26.0,,S,0
+313,314,Classe econômica,"Hendekovic, Mr. Ignjac",male,28.0,0,0,349243,7.8958,,S,0
+314,315,Classe econômica premium,"Hart, Mr. Benjamin",male,43.0,1,1,F.C.C. 13529,26.25,,S,0
+315,316,Classe econômica,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,347470,7.8542,,S,1
+316,317,Classe econômica premium,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,26.0,,S,1
+317,318,Classe econômica premium,"Moraweck, Dr. Ernest",male,54.0,0,0,29011,14.0,,S,0
+318,319,Primeira classe,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,164.8667,C7,S,1
+319,320,Primeira classe,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,134.5,E34,C,1
+320,321,Classe econômica,"Dennis, Mr. Samuel",male,22.0,0,0,A/5 21172,7.25,,S,0
+321,322,Classe econômica,"Danoff, Mr. Yoto",male,27.0,0,0,349219,7.8958,,S,0
+322,323,Classe econômica premium,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,12.35,,Q,1
+323,324,Classe econômica premium,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,248738,29.0,,S,1
+324,325,Classe econômica,"Sage, Mr. George John Jr",male,,8,2,CA. 2343,69.55,,S,0
+325,326,Primeira classe,"Young, Miss. Marie Grice",female,36.0,0,0,PC 17760,135.6333,C32,C,1
+326,327,Classe econômica,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,345364,6.2375,,S,0
+327,328,Classe econômica premium,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,28551,13.0,D,S,1
+328,329,Classe econômica,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,363291,20.525,,S,1
+329,330,Primeira classe,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,57.9792,B18,C,1
+330,331,Classe econômica,"McCoy, Miss. Agnes",female,,2,0,367226,23.25,,Q,1
+331,332,Primeira classe,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,C124,S,0
+332,333,Primeira classe,"Graham, Mr. George Edward",male,38.0,0,1,PC 17582,153.4625,C91,S,0
+333,334,Classe econômica,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,345764,18.0,,S,0
+334,335,Primeira classe,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,,1,0,PC 17611,133.65,,S,1
+335,336,Classe econômica,"Denkoff, Mr. Mitto",male,,0,0,349225,7.8958,,S,0
+336,337,Primeira classe,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,C2,S,0
+337,338,Primeira classe,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,134.5,E40,C,1
+338,339,Classe econômica,"Dahl, Mr. Karl Edwart",male,45.0,0,0,7598,8.05,,S,1
+339,340,Primeira classe,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,113784,35.5,T,S,0
+340,341,Classe econômica premium,"Navratil, Master. Edmond Roger",male,2.0,1,1,230080,26.0,F2,S,1
+341,342,Primeira classe,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,263.0,C23 C25 C27,S,1
+342,343,Classe econômica premium,"Collander, Mr. Erik Gustaf",male,28.0,0,0,248740,13.0,,S,0
+343,344,Classe econômica premium,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,244361,13.0,,S,0
+344,345,Classe econômica premium,"Fox, Mr. Stanley Hubert",male,36.0,0,0,229236,13.0,,S,0
+345,346,Classe econômica premium,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,248733,13.0,F33,S,1
+346,347,Classe econômica premium,"Smith, Miss. Marion Elsie",female,40.0,0,0,31418,13.0,,S,1
+347,348,Classe econômica,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,,1,0,386525,16.1,,S,1
+348,349,Classe econômica,"Coutts, Master. William Loch ""William""",male,3.0,1,1,C.A. 37671,15.9,,S,1
+349,350,Classe econômica,"Dimic, Mr. Jovan",male,42.0,0,0,315088,8.6625,,S,0
+350,351,Classe econômica,"Odahl, Mr. Nils Martin",male,23.0,0,0,7267,9.225,,S,0
+351,352,Primeira classe,"Williams-Lambert, Mr. Fletcher Fellows",male,,0,0,113510,35.0,C128,S,0
+352,353,Classe econômica,"Elias, Mr. Tannous",male,15.0,1,1,2695,7.2292,,C,0
+353,354,Classe econômica,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,349237,17.8,,S,0
+354,355,Classe econômica,"Yousif, Mr. Wazli",male,,0,0,2647,7.225,,C,0
+355,356,Classe econômica,"Vanden Steen, Mr. Leo Peter",male,28.0,0,0,345783,9.5,,S,0
+356,357,Primeira classe,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,113505,55.0,E33,S,1
+357,358,Classe econômica premium,"Funk, Miss. Annie Clemmer",female,38.0,0,0,237671,13.0,,S,0
+358,359,Classe econômica,"McGovern, Miss. Mary",female,,0,0,330931,7.8792,,Q,1
+359,360,Classe econômica,"Mockler, Miss. Helen Mary ""Ellie""",female,,0,0,330980,7.8792,,Q,1
+360,361,Classe econômica,"Skoog, Mr. Wilhelm",male,40.0,1,4,347088,27.9,,S,0
+361,362,Classe econômica premium,"del Carlo, Mr. Sebastiano",male,29.0,1,0,SC/PARIS 2167,27.7208,,C,0
+362,363,Classe econômica,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,2691,14.4542,,C,0
+363,364,Classe econômica,"Asim, Mr. Adola",male,35.0,0,0,SOTON/O.Q. 3101310,7.05,,S,0
+364,365,Classe econômica,"O'Brien, Mr. Thomas",male,,1,0,370365,15.5,,Q,0
+365,366,Classe econômica,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,0,C 7076,7.25,,S,0
+366,367,Primeira classe,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,75.25,D37,C,1
+367,368,Classe econômica,"Moussa, Mrs. (Mantoura Boulos)",female,,0,0,2626,7.2292,,C,1
+368,369,Classe econômica,"Jermyn, Miss. Annie",female,,0,0,14313,7.75,,Q,1
+369,370,Primeira classe,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,PC 17477,69.3,B35,C,1
+370,371,Primeira classe,"Harder, Mr. George Achilles",male,25.0,1,0,11765,55.4417,E50,C,1
+371,372,Classe econômica,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,3101267,6.4958,,S,0
+372,373,Classe econômica,"Beavan, Mr. William Thomas",male,19.0,0,0,323951,8.05,,S,0
+373,374,Primeira classe,"Ringhini, Mr. Sante",male,22.0,0,0,PC 17760,135.6333,,C,0
+374,375,Classe econômica,"Palsson, Miss. Stina Viola",female,3.0,3,1,349909,21.075,,S,0
+375,376,Primeira classe,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,,1,0,PC 17604,82.1708,,C,1
+376,377,Classe econômica,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,C 7077,7.25,,S,1
+377,378,Primeira classe,"Widener, Mr. Harry Elkins",male,27.0,0,2,113503,211.5,C82,C,0
+378,379,Classe econômica,"Betros, Mr. Tannous",male,20.0,0,0,2648,4.0125,,C,0
+379,380,Classe econômica,"Gustafsson, Mr. Karl Gideon",male,19.0,0,0,347069,7.775,,S,0
+380,381,Primeira classe,"Bidois, Miss. Rosalie",female,42.0,0,0,PC 17757,227.525,,C,1
+381,382,Classe econômica,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,2653,15.7417,,C,1
+382,383,Classe econômica,"Tikkanen, Mr. Juho",male,32.0,0,0,STON/O 2. 3101293,7.925,,S,0
+383,384,Primeira classe,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,113789,52.0,,S,1
+384,385,Classe econômica,"Plotcharsky, Mr. Vasil",male,,0,0,349227,7.8958,,S,0
+385,386,Classe econômica premium,"Davies, Mr. Charles Henry",male,18.0,0,0,S.O.C. 14879,73.5,,S,0
+386,387,Classe econômica,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,CA 2144,46.9,,S,0
+387,388,Classe econômica premium,"Buss, Miss. Kate",female,36.0,0,0,27849,13.0,,S,1
+388,389,Classe econômica,"Sadlier, Mr. Matthew",male,,0,0,367655,7.7292,,Q,0
+389,390,Classe econômica premium,"Lehmann, Miss. Bertha",female,17.0,0,0,SC 1748,12.0,,C,1
+390,391,Primeira classe,"Carter, Mr. William Ernest",male,36.0,1,2,113760,120.0,B96 B98,S,1
+391,392,Classe econômica,"Jansson, Mr. Carl Olof",male,21.0,0,0,350034,7.7958,,S,1
+392,393,Classe econômica,"Gustafsson, Mr. Johan Birger",male,28.0,2,0,3101277,7.925,,S,0
+393,394,Primeira classe,"Newell, Miss. Marjorie",female,23.0,1,0,35273,113.275,D36,C,1
+394,395,Classe econômica,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,16.7,G6,S,1
+395,396,Classe econômica,"Johansson, Mr. Erik",male,22.0,0,0,350052,7.7958,,S,0
+396,397,Classe econômica,"Olsson, Miss. Elina",female,31.0,0,0,350407,7.8542,,S,0
+397,398,Classe econômica premium,"McKane, Mr. Peter David",male,46.0,0,0,28403,26.0,,S,0
+398,399,Classe econômica premium,"Pain, Dr. Alfred",male,23.0,0,0,244278,10.5,,S,0
+399,400,Classe econômica premium,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,240929,12.65,,S,1
+400,401,Classe econômica,"Niskanen, Mr. Juha",male,39.0,0,0,STON/O 2. 3101289,7.925,,S,1
+401,402,Classe econômica,"Adams, Mr. John",male,26.0,0,0,341826,8.05,,S,0
+402,403,Classe econômica,"Jussila, Miss. Mari Aina",female,21.0,1,0,4137,9.825,,S,0
+403,404,Classe econômica,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,STON/O2. 3101279,15.85,,S,0
+404,405,Classe econômica,"Oreskovic, Miss. Marija",female,20.0,0,0,315096,8.6625,,S,0
+405,406,Classe econômica premium,"Gale, Mr. Shadrach",male,34.0,1,0,28664,21.0,,S,0
+406,407,Classe econômica,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,347064,7.75,,S,0
+407,408,Classe econômica premium,"Richards, Master. William Rowe",male,3.0,1,1,29106,18.75,,S,1
+408,409,Classe econômica,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,312992,7.775,,S,0
+409,410,Classe econômica,"Lefebre, Miss. Ida",female,,3,1,4133,25.4667,,S,0
+410,411,Classe econômica,"Sdycoff, Mr. Todor",male,,0,0,349222,7.8958,,S,0
+411,412,Classe econômica,"Hart, Mr. Henry",male,,0,0,394140,6.8583,,Q,0
+412,413,Primeira classe,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,90.0,C78,Q,1
+413,414,Classe econômica premium,"Cunningham, Mr. Alfred Fleming",male,,0,0,239853,0.0,,S,0
+414,415,Classe econômica,"Sundman, Mr. Johan Julian",male,44.0,0,0,STON/O 2. 3101269,7.925,,S,1
+415,416,Classe econômica,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,,0,0,343095,8.05,,S,0
+416,417,Classe econômica premium,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,28220,32.5,,S,1
+417,418,Classe econômica premium,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,250652,13.0,,S,1
+418,419,Classe econômica premium,"Matthews, Mr. William John",male,30.0,0,0,28228,13.0,,S,0
+419,420,Classe econômica,"Van Impe, Miss. Catharina",female,10.0,0,2,345773,24.15,,S,0
+420,421,Classe econômica,"Gheorgheff, Mr. Stanio",male,,0,0,349254,7.8958,,C,0
+421,422,Classe econômica,"Charters, Mr. David",male,21.0,0,0,A/5. 13032,7.7333,,Q,0
+422,423,Classe econômica,"Zimmerman, Mr. Leo",male,29.0,0,0,315082,7.875,,S,0
+423,424,Classe econômica,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,1,347080,14.4,,S,0
+424,425,Classe econômica,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,370129,20.2125,,S,0
+425,426,Classe econômica,"Wiseman, Mr. Phillippe",male,,0,0,A/4. 34244,7.25,,S,0
+426,427,Classe econômica premium,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,2003,26.0,,S,1
+427,428,Classe econômica premium,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,250655,26.0,,S,1
+428,429,Classe econômica,"Flynn, Mr. James",male,,0,0,364851,7.75,,Q,0
+429,430,Classe econômica,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,S,1
+430,431,Primeira classe,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,110564,26.55,C52,S,1
+431,432,Classe econômica,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,,1,0,376564,16.1,,S,1
+432,433,Classe econômica premium,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,SC/AH 3085,26.0,,S,1
+433,434,Classe econômica,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,7.125,,S,0
+434,435,Primeira classe,"Silvey, Mr. William Baird",male,50.0,1,0,13507,55.9,E44,S,0
+435,436,Primeira classe,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,B96 B98,S,1
+436,437,Classe econômica,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,W./C. 6608,34.375,,S,0
+437,438,Classe econômica premium,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,29106,18.75,,S,1
+438,439,Primeira classe,"Fortune, Mr. Mark",male,64.0,1,4,19950,263.0,C23 C25 C27,S,0
+439,440,Classe econômica premium,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,C.A. 18723,10.5,,S,0
+440,441,Classe econômica premium,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,F.C.C. 13529,26.25,,S,1
+441,442,Classe econômica,"Hampe, Mr. Leon",male,20.0,0,0,345769,9.5,,S,0
+442,443,Classe econômica,"Petterson, Mr. Johan Emil",male,25.0,1,0,347076,7.775,,S,0
+443,444,Classe econômica premium,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,230434,13.0,,S,1
+444,445,Classe econômica,"Johannesen-Bratthammer, Mr. Bernt",male,,0,0,65306,8.1125,,S,1
+445,446,Primeira classe,"Dodge, Master. Washington",male,4.0,0,2,33638,81.8583,A34,S,1
+446,447,Classe econômica premium,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,250644,19.5,,S,1
+447,448,Primeira classe,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,26.55,,S,1
+448,449,Classe econômica,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,,C,1
+449,450,Primeira classe,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,113786,30.5,C104,S,1
+450,451,Classe econômica premium,"West, Mr. Edwy Arthur",male,36.0,1,2,C.A. 34651,27.75,,S,0
+451,452,Classe econômica,"Hagland, Mr. Ingvald Olai Olsen",male,,1,0,65303,19.9667,,S,0
+452,453,Primeira classe,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,27.75,C111,C,0
+453,454,Primeira classe,"Goldenberg, Mr. Samuel L",male,49.0,1,0,17453,89.1042,C92,C,1
+454,455,Classe econômica,"Peduzzi, Mr. Joseph",male,,0,0,A/5 2817,8.05,,S,0
+455,456,Classe econômica,"Jalsevac, Mr. Ivan",male,29.0,0,0,349240,7.8958,,C,1
+456,457,Primeira classe,"Millet, Mr. Francis Davis",male,65.0,0,0,13509,26.55,E38,S,0
+457,458,Primeira classe,"Kenyon, Mrs. Frederick R (Marion)",female,,1,0,17464,51.8625,D21,S,1
+458,459,Classe econômica premium,"Toomey, Miss. Ellen",female,50.0,0,0,F.C.C. 13531,10.5,,S,1
+459,460,Classe econômica,"O'Connor, Mr. Maurice",male,,0,0,371060,7.75,,Q,0
+460,461,Primeira classe,"Anderson, Mr. Harry",male,48.0,0,0,19952,26.55,E12,S,1
+461,462,Classe econômica,"Morley, Mr. William",male,34.0,0,0,364506,8.05,,S,0
+462,463,Primeira classe,"Gee, Mr. Arthur H",male,47.0,0,0,111320,38.5,E63,S,0
+463,464,Classe econômica premium,"Milling, Mr. Jacob Christian",male,48.0,0,0,234360,13.0,,S,0
+464,465,Classe econômica,"Maisner, Mr. Simon",male,,0,0,A/S 2816,8.05,,S,0
+465,466,Classe econômica,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,SOTON/O.Q. 3101306,7.05,,S,0
+466,467,Classe econômica premium,"Campbell, Mr. William",male,,0,0,239853,0.0,,S,0
+467,468,Primeira classe,"Smart, Mr. John Montgomery",male,56.0,0,0,113792,26.55,,S,0
+468,469,Classe econômica,"Scanlan, Mr. James",male,,0,0,36209,7.725,,Q,0
+469,470,Classe econômica,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,,C,1
+470,471,Classe econômica,"Keefe, Mr. Arthur",male,,0,0,323592,7.25,,S,0
+471,472,Classe econômica,"Cacic, Mr. Luka",male,38.0,0,0,315089,8.6625,,S,0
+472,473,Classe econômica premium,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,C.A. 34651,27.75,,S,1
+473,474,Classe econômica premium,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,13.7917,D,C,1
+474,475,Classe econômica,"Strandberg, Miss. Ida Sofia",female,22.0,0,0,7553,9.8375,,S,0
+475,476,Primeira classe,"Clifford, Mr. George Quincy",male,,0,0,110465,52.0,A14,S,0
+476,477,Classe econômica premium,"Renouf, Mr. Peter Henry",male,34.0,1,0,31027,21.0,,S,0
+477,478,Classe econômica,"Braund, Mr. Lewis Richard",male,29.0,1,0,3460,7.0458,,S,0
+478,479,Classe econômica,"Karlsson, Mr. Nils August",male,22.0,0,0,350060,7.5208,,S,0
+479,480,Classe econômica,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,,S,1
+480,481,Classe econômica,"Goodwin, Master. Harold Victor",male,9.0,5,2,CA 2144,46.9,,S,0
+481,482,Classe econômica premium,"Frost, Mr. Anthony Wood ""Archie""",male,,0,0,239854,0.0,,S,0
+482,483,Classe econômica,"Rouse, Mr. Richard Henry",male,50.0,0,0,A/5 3594,8.05,,S,0
+483,484,Classe econômica,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,4134,9.5875,,S,1
+484,485,Primeira classe,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,91.0792,B49,C,1
+485,486,Classe econômica,"Lefebre, Miss. Jeannie",female,,3,1,4133,25.4667,,S,0
+486,487,Primeira classe,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,19943,90.0,C93,S,1
+487,488,Primeira classe,"Kent, Mr. Edward Austin",male,58.0,0,0,11771,29.7,B37,C,0
+488,489,Classe econômica,"Somerton, Mr. Francis William",male,30.0,0,0,A.5. 18509,8.05,,S,0
+489,490,Classe econômica,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,C.A. 37671,15.9,,S,1
+490,491,Classe econômica,"Hagland, Mr. Konrad Mathias Reiersen",male,,1,0,65304,19.9667,,S,0
+491,492,Classe econômica,"Windelov, Mr. Einar",male,21.0,0,0,SOTON/OQ 3101317,7.25,,S,0
+492,493,Primeira classe,"Molson, Mr. Harry Markland",male,55.0,0,0,113787,30.5,C30,S,0
+493,494,Primeira classe,"Artagaveytia, Mr. Ramon",male,71.0,0,0,PC 17609,49.5042,,C,0
+494,495,Classe econômica,"Stanley, Mr. Edward Roland",male,21.0,0,0,A/4 45380,8.05,,S,0
+495,496,Classe econômica,"Yousseff, Mr. Gerious",male,,0,0,2627,14.4583,,C,0
+496,497,Primeira classe,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,36947,78.2667,D20,C,1
+497,498,Classe econômica,"Shellard, Mr. Frederick William",male,,0,0,C.A. 6212,15.1,,S,0
+498,499,Primeira classe,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,113781,151.55,C22 C26,S,0
+499,500,Classe econômica,"Svensson, Mr. Olof",male,24.0,0,0,350035,7.7958,,S,0
+500,501,Classe econômica,"Calic, Mr. Petar",male,17.0,0,0,315086,8.6625,,S,0
+501,502,Classe econômica,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,,Q,0
+502,503,Classe econômica,"O'Sullivan, Miss. Bridget Mary",female,,0,0,330909,7.6292,,Q,0
+503,504,Classe econômica,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,4135,9.5875,,S,0
+504,505,Primeira classe,"Maioni, Miss. Roberta",female,16.0,0,0,110152,86.5,B79,S,1
+505,506,Primeira classe,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,PC 17758,108.9,C65,C,0
+506,507,Classe econômica premium,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26360,26.0,,S,1
+507,508,Primeira classe,"Bradley, Mr. George (""George Arthur Brayton"")",male,,0,0,111427,26.55,,S,1
+508,509,Classe econômica,"Olsen, Mr. Henry Margido",male,28.0,0,0,C 4001,22.525,,S,0
+509,510,Classe econômica,"Lang, Mr. Fang",male,26.0,0,0,1601,56.4958,,S,1
+510,511,Classe econômica,"Daly, Mr. Eugene Patrick",male,29.0,0,0,382651,7.75,,Q,1
+511,512,Classe econômica,"Webber, Mr. James",male,,0,0,SOTON/OQ 3101316,8.05,,S,0
+512,513,Primeira classe,"McGough, Mr. James Robert",male,36.0,0,0,PC 17473,26.2875,E25,S,1
+513,514,Primeira classe,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,PC 17603,59.4,,C,1
+514,515,Classe econômica,"Coleff, Mr. Satio",male,24.0,0,0,349209,7.4958,,S,0
+515,516,Primeira classe,"Walker, Mr. William Anderson",male,47.0,0,0,36967,34.0208,D46,S,0
+516,517,Classe econômica premium,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,C.A. 34260,10.5,F33,S,1
+517,518,Classe econômica,"Ryan, Mr. Patrick",male,,0,0,371110,24.15,,Q,0
+518,519,Classe econômica premium,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,226875,26.0,,S,1
+519,520,Classe econômica,"Pavlovic, Mr. Stefo",male,32.0,0,0,349242,7.8958,,S,0
+520,521,Primeira classe,"Perreault, Miss. Anne",female,30.0,0,0,12749,93.5,B73,S,1
+521,522,Classe econômica,"Vovk, Mr. Janko",male,22.0,0,0,349252,7.8958,,S,0
+522,523,Classe econômica,"Lahoud, Mr. Sarkis",male,,0,0,2624,7.225,,C,0
+523,524,Primeira classe,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,111361,57.9792,B18,C,1
+524,525,Classe econômica,"Kassem, Mr. Fared",male,,0,0,2700,7.2292,,C,0
+525,526,Classe econômica,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,,Q,0
+526,527,Classe econômica premium,"Ridsdale, Miss. Lucy",female,50.0,0,0,W./C. 14258,10.5,,S,1
+527,528,Primeira classe,"Farthing, Mr. John",male,,0,0,PC 17483,221.7792,C95,S,0
+528,529,Classe econômica,"Salonen, Mr. Johan Werner",male,39.0,0,0,3101296,7.925,,S,0
+529,530,Classe econômica premium,"Hocking, Mr. Richard George",male,23.0,2,1,29104,11.5,,S,0
+530,531,Classe econômica premium,"Quick, Miss. Phyllis May",female,2.0,1,1,26360,26.0,,S,1
+531,532,Classe econômica,"Toufik, Mr. Nakli",male,,0,0,2641,7.2292,,C,0
+532,533,Classe econômica,"Elias, Mr. Joseph Jr",male,17.0,1,1,2690,7.2292,,C,0
+533,534,Classe econômica,"Peter, Mrs. Catherine (Catherine Rizk)",female,,0,2,2668,22.3583,,C,1
+534,535,Classe econômica,"Cacic, Miss. Marija",female,30.0,0,0,315084,8.6625,,S,0
+535,536,Classe econômica premium,"Hart, Miss. Eva Miriam",female,7.0,0,2,F.C.C. 13529,26.25,,S,1
+536,537,Primeira classe,"Butt, Major. Archibald Willingham",male,45.0,0,0,113050,26.55,B38,S,0
+537,538,Primeira classe,"LeRoy, Miss. Bertha",female,30.0,0,0,PC 17761,106.425,,C,1
+538,539,Classe econômica,"Risien, Mr. Samuel Beard",male,,0,0,364498,14.5,,S,0
+539,540,Primeira classe,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,49.5,B39,C,1
+540,541,Primeira classe,"Crosby, Miss. Harriet R",female,36.0,0,2,WE/P 5735,71.0,B22,S,1
+541,542,Classe econômica,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,347082,31.275,,S,0
+542,543,Classe econômica,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,347082,31.275,,S,0
+543,544,Classe econômica premium,"Beane, Mr. Edward",male,32.0,1,0,2908,26.0,,S,1
+544,545,Primeira classe,"Douglas, Mr. Walter Donald",male,50.0,1,0,PC 17761,106.425,C86,C,0
+545,546,Primeira classe,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,693,26.0,,S,0
+546,547,Classe econômica premium,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,2908,26.0,,S,1
+547,548,Classe econômica premium,"Padro y Manent, Mr. Julian",male,,0,0,SC/PARIS 2146,13.8625,,C,1
+548,549,Classe econômica,"Goldsmith, Mr. Frank John",male,33.0,1,1,363291,20.525,,S,0
+549,550,Classe econômica premium,"Davies, Master. John Morgan Jr",male,8.0,1,1,C.A. 33112,36.75,,S,1
+550,551,Primeira classe,"Thayer, Mr. John Borland Jr",male,17.0,0,2,17421,110.8833,C70,C,1
+551,552,Classe econômica premium,"Sharp, Mr. Percival James R",male,27.0,0,0,244358,26.0,,S,0
+552,553,Classe econômica,"O'Brien, Mr. Timothy",male,,0,0,330979,7.8292,,Q,0
+553,554,Classe econômica,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,2620,7.225,,C,1
+554,555,Classe econômica,"Ohman, Miss. Velin",female,22.0,0,0,347085,7.775,,S,1
+555,556,Primeira classe,"Wright, Mr. George",male,62.0,0,0,113807,26.55,,S,0
+556,557,Primeira classe,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,11755,39.6,A16,C,1
+557,558,Primeira classe,"Robbins, Mr. Victor",male,,0,0,PC 17757,227.525,,C,0
+558,559,Primeira classe,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,110413,79.65,E67,S,1
+559,560,Classe econômica,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,345572,17.4,,S,1
+560,561,Classe econômica,"Morrow, Mr. Thomas Rowan",male,,0,0,372622,7.75,,Q,0
+561,562,Classe econômica,"Sivic, Mr. Husein",male,40.0,0,0,349251,7.8958,,S,0
+562,563,Classe econômica premium,"Norman, Mr. Robert Douglas",male,28.0,0,0,218629,13.5,,S,0
+563,564,Classe econômica,"Simmons, Mr. John",male,,0,0,SOTON/OQ 392082,8.05,,S,0
+564,565,Classe econômica,"Meanwell, Miss. (Marion Ogden)",female,,0,0,SOTON/O.Q. 392087,8.05,,S,0
+565,566,Classe econômica,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,24.15,,S,0
+566,567,Classe econômica,"Stoytcheff, Mr. Ilia",male,19.0,0,0,349205,7.8958,,S,0
+567,568,Classe econômica,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,4,349909,21.075,,S,0
+568,569,Classe econômica,"Doharr, Mr. Tannous",male,,0,0,2686,7.2292,,C,0
+569,570,Classe econômica,"Jonsson, Mr. Carl",male,32.0,0,0,350417,7.8542,,S,1
+570,571,Classe econômica premium,"Harris, Mr. George",male,62.0,0,0,S.W./PP 752,10.5,,S,1
+571,572,Primeira classe,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,51.4792,C101,S,1
+572,573,Primeira classe,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,PC 17474,26.3875,E25,S,1
+573,574,Classe econômica,"Kelly, Miss. Mary",female,,0,0,14312,7.75,,Q,1
+574,575,Classe econômica,"Rush, Mr. Alfred George John",male,16.0,0,0,A/4. 20589,8.05,,S,0
+575,576,Classe econômica,"Patchett, Mr. George",male,19.0,0,0,358585,14.5,,S,0
+576,577,Classe econômica premium,"Garside, Miss. Ethel",female,34.0,0,0,243880,13.0,,S,1
+577,578,Primeira classe,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,13507,55.9,E44,S,1
+578,579,Classe econômica,"Caram, Mrs. Joseph (Maria Elias)",female,,1,0,2689,14.4583,,C,0
+579,580,Classe econômica,"Jussila, Mr. Eiriik",male,32.0,0,0,STON/O 2. 3101286,7.925,,S,1
+580,581,Classe econômica premium,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,30.0,,S,1
+581,582,Primeira classe,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,17421,110.8833,C68,C,1
+582,583,Classe econômica premium,"Downton, Mr. William James",male,54.0,0,0,28403,26.0,,S,0
+583,584,Primeira classe,"Ross, Mr. John Hugo",male,36.0,0,0,13049,40.125,A10,C,0
+584,585,Classe econômica,"Paulner, Mr. Uscher",male,,0,0,3411,8.7125,,C,0
+585,586,Primeira classe,"Taussig, Miss. Ruth",female,18.0,0,2,110413,79.65,E68,S,1
+586,587,Classe econômica premium,"Jarvis, Mr. John Denzil",male,47.0,0,0,237565,15.0,,S,0
+587,588,Primeira classe,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,13567,79.2,B41,C,1
+588,589,Classe econômica,"Gilinski, Mr. Eliezer",male,22.0,0,0,14973,8.05,,S,0
+589,590,Classe econômica,"Murdlin, Mr. Joseph",male,,0,0,A./5. 3235,8.05,,S,0
+590,591,Classe econômica,"Rintamaki, Mr. Matti",male,35.0,0,0,STON/O 2. 3101273,7.125,,S,0
+591,592,Primeira classe,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,36947,78.2667,D20,C,1
+592,593,Classe econômica,"Elsbury, Mr. William James",male,47.0,0,0,A/5 3902,7.25,,S,0
+593,594,Classe econômica,"Bourke, Miss. Mary",female,,0,2,364848,7.75,,Q,0
+594,595,Classe econômica premium,"Chapman, Mr. John Henry",male,37.0,1,0,SC/AH 29037,26.0,,S,0
+595,596,Classe econômica,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,345773,24.15,,S,0
+596,597,Classe econômica premium,"Leitch, Miss. Jessie Wills",female,,0,0,248727,33.0,,S,1
+597,598,Classe econômica,"Johnson, Mr. Alfred",male,49.0,0,0,LINE,0.0,,S,0
+598,599,Classe econômica,"Boulos, Mr. Hanna",male,,0,0,2664,7.225,,C,0
+599,600,Primeira classe,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,56.9292,A20,C,1
+600,601,Classe econômica premium,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,243847,27.0,,S,1
+601,602,Classe econômica,"Slabenoff, Mr. Petco",male,,0,0,349214,7.8958,,S,0
+602,603,Primeira classe,"Harrington, Mr. Charles H",male,,0,0,113796,42.4,,S,0
+603,604,Classe econômica,"Torber, Mr. Ernst William",male,44.0,0,0,364511,8.05,,S,0
+604,605,Primeira classe,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,111426,26.55,,C,1
+605,606,Classe econômica,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,0,349910,15.55,,S,0
+606,607,Classe econômica,"Karaic, Mr. Milan",male,30.0,0,0,349246,7.8958,,S,0
+607,608,Primeira classe,"Daniel, Mr. Robert Williams",male,27.0,0,0,113804,30.5,,S,1
+608,609,Classe econômica premium,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,SC/Paris 2123,41.5792,,C,1
+609,610,Primeira classe,"Shutes, Miss. Elizabeth W",female,40.0,0,0,PC 17582,153.4625,C125,S,1
+610,611,Classe econômica,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,5,347082,31.275,,S,0
+611,612,Classe econômica,"Jardin, Mr. Jose Neto",male,,0,0,SOTON/O.Q. 3101305,7.05,,S,0
+612,613,Classe econômica,"Murphy, Miss. Margaret Jane",female,,1,0,367230,15.5,,Q,1
+613,614,Classe econômica,"Horgan, Mr. John",male,,0,0,370377,7.75,,Q,0
+614,615,Classe econômica,"Brocklebank, Mr. William Alfred",male,35.0,0,0,364512,8.05,,S,0
+615,616,Classe econômica premium,"Herman, Miss. Alice",female,24.0,1,2,220845,65.0,,S,1
+616,617,Classe econômica,"Danbom, Mr. Ernst Gilbert",male,34.0,1,1,347080,14.4,,S,0
+617,618,Classe econômica,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,A/5. 3336,16.1,,S,0
+618,619,Classe econômica premium,"Becker, Miss. Marion Louise",female,4.0,2,1,230136,39.0,F4,S,1
+619,620,Classe econômica premium,"Gavey, Mr. Lawrence",male,26.0,0,0,31028,10.5,,S,0
+620,621,Classe econômica,"Yasbeck, Mr. Antoni",male,27.0,1,0,2659,14.4542,,C,0
+621,622,Primeira classe,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,11753,52.5542,D19,S,1
+622,623,Classe econômica,"Nakid, Mr. Sahid",male,20.0,1,1,2653,15.7417,,C,1
+623,624,Classe econômica,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,350029,7.8542,,S,0
+624,625,Classe econômica,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,54636,16.1,,S,0
+625,626,Primeira classe,"Sutton, Mr. Frederick",male,61.0,0,0,36963,32.3208,D50,S,0
+626,627,Classe econômica premium,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,219533,12.35,,Q,0
+627,628,Primeira classe,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,13502,77.9583,D9,S,1
+628,629,Classe econômica,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,349224,7.8958,,S,0
+629,630,Classe econômica,"O'Connell, Mr. Patrick D",male,,0,0,334912,7.7333,,Q,0
+630,631,Primeira classe,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,27042,30.0,A23,S,1
+631,632,Classe econômica,"Lundahl, Mr. Johan Svensson",male,51.0,0,0,347743,7.0542,,S,0
+632,633,Primeira classe,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,13214,30.5,B50,C,1
+633,634,Primeira classe,"Parr, Mr. William Henry Marsh",male,,0,0,112052,0.0,,S,0
+634,635,Classe econômica,"Skoog, Miss. Mabel",female,9.0,3,2,347088,27.9,,S,0
+635,636,Classe econômica premium,"Davis, Miss. Mary",female,28.0,0,0,237668,13.0,,S,1
+636,637,Classe econômica,"Leinonen, Mr. Antti Gustaf",male,32.0,0,0,STON/O 2. 3101292,7.925,,S,0
+637,638,Classe econômica premium,"Collyer, Mr. Harvey",male,31.0,1,1,C.A. 31921,26.25,,S,0
+638,639,Classe econômica,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,5,3101295,39.6875,,S,0
+639,640,Classe econômica,"Thorneycroft, Mr. Percival",male,,1,0,376564,16.1,,S,0
+640,641,Classe econômica,"Jensen, Mr. Hans Peder",male,20.0,0,0,350050,7.8542,,S,0
+641,642,Primeira classe,"Sagesser, Mlle. Emma",female,24.0,0,0,PC 17477,69.3,B35,C,1
+642,643,Classe econômica,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,347088,27.9,,S,0
+643,644,Classe econômica,"Foo, Mr. Choong",male,,0,0,1601,56.4958,,S,1
+644,645,Classe econômica,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,,C,1
+645,646,Primeira classe,"Harper, Mr. Henry Sleeper",male,48.0,1,0,PC 17572,76.7292,D33,C,1
+646,647,Classe econômica,"Cor, Mr. Liudevit",male,19.0,0,0,349231,7.8958,,S,0
+647,648,Primeira classe,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,13213,35.5,A26,C,1
+648,649,Classe econômica,"Willey, Mr. Edward",male,,0,0,S.O./P.P. 751,7.55,,S,0
+649,650,Classe econômica,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,CA. 2314,7.55,,S,1
+650,651,Classe econômica,"Mitkoff, Mr. Mito",male,,0,0,349221,7.8958,,S,0
+651,652,Classe econômica premium,"Doling, Miss. Elsie",female,18.0,0,1,231919,23.0,,S,1
+652,653,Classe econômica,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8475,8.4333,,S,0
+653,654,Classe econômica,"O'Leary, Miss. Hanora ""Norah""",female,,0,0,330919,7.8292,,Q,1
+654,655,Classe econômica,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,365226,6.75,,Q,0
+655,656,Classe econômica premium,"Hickman, Mr. Leonard Mark",male,24.0,2,0,S.O.C. 14879,73.5,,S,0
+656,657,Classe econômica,"Radeff, Mr. Alexander",male,,0,0,349223,7.8958,,S,0
+657,658,Classe econômica,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,15.5,,Q,0
+658,659,Classe econômica premium,"Eitemiller, Mr. George Floyd",male,23.0,0,0,29751,13.0,,S,0
+659,660,Primeira classe,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,113.275,D48,C,0
+660,661,Primeira classe,"Frauenthal, Dr. Henry William",male,50.0,2,0,PC 17611,133.65,,S,1
+661,662,Classe econômica,"Badt, Mr. Mohamed",male,40.0,0,0,2623,7.225,,C,0
+662,663,Primeira classe,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,5727,25.5875,E58,S,0
+663,664,Classe econômica,"Coleff, Mr. Peju",male,36.0,0,0,349210,7.4958,,S,0
+664,665,Classe econômica,"Lindqvist, Mr. Eino William",male,20.0,1,0,STON/O 2. 3101285,7.925,,S,1
+665,666,Classe econômica premium,"Hickman, Mr. Lewis",male,32.0,2,0,S.O.C. 14879,73.5,,S,0
+666,667,Classe econômica premium,"Butler, Mr. Reginald Fenton",male,25.0,0,0,234686,13.0,,S,0
+667,668,Classe econômica,"Rommetvedt, Mr. Knud Paust",male,,0,0,312993,7.775,,S,0
+668,669,Classe econômica,"Cook, Mr. Jacob",male,43.0,0,0,A/5 3536,8.05,,S,0
+669,670,Primeira classe,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,,1,0,19996,52.0,C126,S,1
+670,671,Classe econômica premium,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,29750,39.0,,S,1
+671,672,Primeira classe,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,52.0,B71,S,0
+672,673,Classe econômica premium,"Mitchell, Mr. Henry Michael",male,70.0,0,0,C.A. 24580,10.5,,S,0
+673,674,Classe econômica premium,"Wilhelms, Mr. Charles",male,31.0,0,0,244270,13.0,,S,1
+674,675,Classe econômica premium,"Watson, Mr. Ennis Hastings",male,,0,0,239856,0.0,,S,0
+675,676,Classe econômica,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,0,349912,7.775,,S,0
+676,677,Classe econômica,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,,S,0
+677,678,Classe econômica,"Turja, Miss. Anna Sofia",female,18.0,0,0,4138,9.8417,,S,1
+678,679,Classe econômica,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,CA 2144,46.9,,S,0
+679,680,Primeira classe,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,C,1
+680,681,Classe econômica,"Peters, Miss. Katie",female,,0,0,330935,8.1375,,Q,0
+681,682,Primeira classe,"Hassab, Mr. Hammad",male,27.0,0,0,PC 17572,76.7292,D49,C,1
+682,683,Classe econômica,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,6563,9.225,,S,0
+683,684,Classe econômica,"Goodwin, Mr. Charles Edward",male,14.0,5,2,CA 2144,46.9,,S,0
+684,685,Classe econômica premium,"Brown, Mr. Thomas William Solomon",male,60.0,1,1,29750,39.0,,S,0
+685,686,Classe econômica premium,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,SC/Paris 2123,41.5792,,C,0
+686,687,Classe econômica,"Panula, Mr. Jaako Arnold",male,14.0,4,1,3101295,39.6875,,S,0
+687,688,Classe econômica,"Dakic, Mr. Branko",male,19.0,0,0,349228,10.1708,,S,0
+688,689,Classe econômica,"Fischer, Mr. Eberhard Thelander",male,18.0,0,0,350036,7.7958,,S,0
+689,690,Primeira classe,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,211.3375,B5,S,1
+690,691,Primeira classe,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,57.0,B20,S,1
+691,692,Classe econômica,"Karun, Miss. Manca",female,4.0,0,1,349256,13.4167,,C,1
+692,693,Classe econômica,"Lam, Mr. Ali",male,,0,0,1601,56.4958,,S,1
+693,694,Classe econômica,"Saad, Mr. Khalil",male,25.0,0,0,2672,7.225,,C,0
+694,695,Primeira classe,"Weir, Col. John",male,60.0,0,0,113800,26.55,,S,0
+695,696,Classe econômica premium,"Chapman, Mr. Charles Henry",male,52.0,0,0,248731,13.5,,S,0
+696,697,Classe econômica,"Kelly, Mr. James",male,44.0,0,0,363592,8.05,,S,0
+697,698,Classe econômica,"Mullens, Miss. Katherine ""Katie""",female,,0,0,35852,7.7333,,Q,1
+698,699,Primeira classe,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,C68,C,0
+699,700,Classe econômica,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,348121,7.65,F G63,S,0
+700,701,Primeira classe,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,PC 17757,227.525,C62 C64,C,1
+701,702,Primeira classe,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,26.2875,E24,S,1
+702,703,Classe econômica,"Barbara, Miss. Saiide",female,18.0,0,1,2691,14.4542,,C,0
+703,704,Classe econômica,"Gallagher, Mr. Martin",male,25.0,0,0,36864,7.7417,,Q,0
+704,705,Classe econômica,"Hansen, Mr. Henrik Juul",male,26.0,1,0,350025,7.8542,,S,0
+705,706,Classe econômica premium,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,250655,26.0,,S,0
+706,707,Classe econômica premium,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,223596,13.5,,S,1
+707,708,Primeira classe,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,PC 17476,26.2875,E24,S,1
+708,709,Primeira classe,"Cleaver, Miss. Alice",female,22.0,0,0,113781,151.55,,S,1
+709,710,Classe econômica,"Moubarek, Master. Halim Gonios (""William George"")",male,,1,1,2661,15.2458,,C,1
+710,711,Primeira classe,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,PC 17482,49.5042,C90,C,1
+711,712,Primeira classe,"Klaber, Mr. Herman",male,,0,0,113028,26.55,C124,S,0
+712,713,Primeira classe,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,19996,52.0,C126,S,1
+713,714,Classe econômica,"Larsson, Mr. August Viktor",male,29.0,0,0,7545,9.4833,,S,0
+714,715,Classe econômica premium,"Greenberg, Mr. Samuel",male,52.0,0,0,250647,13.0,,S,0
+715,716,Classe econômica,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,348124,7.65,F G73,S,0
+716,717,Primeira classe,"Endres, Miss. Caroline Louise",female,38.0,0,0,PC 17757,227.525,C45,C,1
+717,718,Classe econômica premium,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,34218,10.5,E101,S,1
+718,719,Classe econômica,"McEvoy, Mr. Michael",male,,0,0,36568,15.5,,Q,0
+719,720,Classe econômica,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,347062,7.775,,S,0
+720,721,Classe econômica premium,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,33.0,,S,1
+721,722,Classe econômica,"Jensen, Mr. Svend Lauritz",male,17.0,1,0,350048,7.0542,,S,0
+722,723,Classe econômica premium,"Gillespie, Mr. William Henry",male,34.0,0,0,12233,13.0,,S,0
+723,724,Classe econômica premium,"Hodges, Mr. Henry Price",male,50.0,0,0,250643,13.0,,S,0
+724,725,Primeira classe,"Chambers, Mr. Norman Campbell",male,27.0,1,0,113806,53.1,E8,S,1
+725,726,Classe econômica,"Oreskovic, Mr. Luka",male,20.0,0,0,315094,8.6625,,S,0
+726,727,Classe econômica premium,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,31027,21.0,,S,1
+727,728,Classe econômica,"Mannion, Miss. Margareth",female,,0,0,36866,7.7375,,Q,1
+728,729,Classe econômica premium,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,0,236853,26.0,,S,0
+729,730,Classe econômica,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,0,STON/O2. 3101271,7.925,,S,0
+730,731,Primeira classe,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,211.3375,B5,S,1
+731,732,Classe econômica,"Hassan, Mr. Houssein G N",male,11.0,0,0,2699,18.7875,,C,0
+732,733,Classe econômica premium,"Knight, Mr. Robert J",male,,0,0,239855,0.0,,S,0
+733,734,Classe econômica premium,"Berriman, Mr. William John",male,23.0,0,0,28425,13.0,,S,0
+734,735,Classe econômica premium,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,233639,13.0,,S,0
+735,736,Classe econômica,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,,S,0
+736,737,Classe econômica,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,W./C. 6608,34.375,,S,0
+737,738,Primeira classe,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,512.3292,B101,C,1
+738,739,Classe econômica,"Ivanoff, Mr. Kanio",male,,0,0,349201,7.8958,,S,0
+739,740,Classe econômica,"Nankoff, Mr. Minko",male,,0,0,349218,7.8958,,S,0
+740,741,Primeira classe,"Hawksford, Mr. Walter James",male,,0,0,16988,30.0,D45,S,1
+741,742,Primeira classe,"Cavendish, Mr. Tyrell William",male,36.0,1,0,19877,78.85,C46,S,0
+742,743,Primeira classe,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,1
+743,744,Classe econômica,"McNamee, Mr. Neal",male,24.0,1,0,376566,16.1,,S,0
+744,745,Classe econômica,"Stranden, Mr. Juho",male,31.0,0,0,STON/O 2. 3101288,7.925,,S,1
+745,746,Primeira classe,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,71.0,B22,S,0
+746,747,Classe econômica,"Abbott, Mr. Rossmore Edward",male,16.0,1,1,C.A. 2673,20.25,,S,0
+747,748,Classe econômica premium,"Sinkkonen, Miss. Anna",female,30.0,0,0,250648,13.0,,S,1
+748,749,Primeira classe,"Marvin, Mr. Daniel Warner",male,19.0,1,0,113773,53.1,D30,S,0
+749,750,Classe econômica,"Connaghton, Mr. Michael",male,31.0,0,0,335097,7.75,,Q,0
+750,751,Classe econômica premium,"Wells, Miss. Joan",female,4.0,1,1,29103,23.0,,S,1
+751,752,Classe econômica,"Moor, Master. Meier",male,6.0,0,1,392096,12.475,E121,S,1
+752,753,Classe econômica,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,345780,9.5,,S,0
+753,754,Classe econômica,"Jonkoff, Mr. Lalio",male,23.0,0,0,349204,7.8958,,S,0
+754,755,Classe econômica premium,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,220845,65.0,,S,1
+755,756,Classe econômica premium,"Hamalainen, Master. Viljo",male,0.67,1,1,250649,14.5,,S,1
+756,757,Classe econômica,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,350042,7.7958,,S,0
+757,758,Classe econômica premium,"Bailey, Mr. Percy Andrew",male,18.0,0,0,29108,11.5,,S,0
+758,759,Classe econômica,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,363294,8.05,,S,0
+759,760,Primeira classe,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,110152,86.5,B77,S,1
+760,761,Classe econômica,"Garfirth, Mr. John",male,,0,0,358585,14.5,,S,0
+761,762,Classe econômica,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,SOTON/O2 3101272,7.125,,S,0
+762,763,Classe econômica,"Barah, Mr. Hanna Assi",male,20.0,0,0,2663,7.2292,,C,1
+763,764,Primeira classe,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,113760,120.0,B96 B98,S,1
+764,765,Classe econômica,"Eklund, Mr. Hans Linus",male,16.0,0,0,347074,7.775,,S,0
+765,766,Primeira classe,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,13502,77.9583,D11,S,1
+766,767,Primeira classe,"Brewe, Dr. Arthur Jackson",male,,0,0,112379,39.6,,C,0
+767,768,Classe econômica,"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,,Q,0
+768,769,Classe econômica,"Moran, Mr. Daniel J",male,,1,0,371110,24.15,,Q,0
+769,770,Classe econômica,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,8471,8.3625,,S,0
+770,771,Classe econômica,"Lievens, Mr. Rene Aime",male,24.0,0,0,345781,9.5,,S,0
+771,772,Classe econômica,"Jensen, Mr. Niels Peder",male,48.0,0,0,350047,7.8542,,S,0
+772,773,Classe econômica premium,"Mack, Mrs. (Mary)",female,57.0,0,0,S.O./P.P. 3,10.5,E77,S,0
+773,774,Classe econômica,"Elias, Mr. Dibo",male,,0,0,2674,7.225,,C,0
+774,775,Classe econômica premium,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,29105,23.0,,S,1
+775,776,Classe econômica,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,347078,7.75,,S,0
+776,777,Classe econômica,"Tobin, Mr. Roger",male,,0,0,383121,7.75,F38,Q,0
+777,778,Classe econômica,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,12.475,,S,1
+778,779,Classe econômica,"Kilgannon, Mr. Thomas J",male,,0,0,36865,7.7375,,Q,0
+779,780,Primeira classe,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,24160,211.3375,B3,S,1
+780,781,Classe econômica,"Ayoub, Miss. Banoura",female,13.0,0,0,2687,7.2292,,C,1
+781,782,Primeira classe,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,17474,57.0,B20,S,1
+782,783,Primeira classe,"Long, Mr. Milton Clyde",male,29.0,0,0,113501,30.0,D6,S,0
+783,784,Classe econômica,"Johnston, Mr. Andrew G",male,,1,2,W./C. 6607,23.45,,S,0
+784,785,Classe econômica,"Ali, Mr. William",male,25.0,0,0,SOTON/O.Q. 3101312,7.05,,S,0
+785,786,Classe econômica,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,374887,7.25,,S,0
+786,787,Classe econômica,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,3101265,7.4958,,S,1
+787,788,Classe econômica,"Rice, Master. George Hugh",male,8.0,4,1,382652,29.125,,Q,0
+788,789,Classe econômica,"Dean, Master. Bertram Vere",male,1.0,1,2,C.A. 2315,20.575,,S,1
+789,790,Primeira classe,"Guggenheim, Mr. Benjamin",male,46.0,0,0,PC 17593,79.2,B82 B84,C,0
+790,791,Classe econômica,"Keane, Mr. Andrew ""Andy""",male,,0,0,12460,7.75,,Q,0
+791,792,Classe econômica premium,"Gaskell, Mr. Alfred",male,16.0,0,0,239865,26.0,,S,0
+792,793,Classe econômica,"Sage, Miss. Stella Anna",female,,8,2,CA. 2343,69.55,,S,0
+793,794,Primeira classe,"Hoyt, Mr. William Fisher",male,,0,0,PC 17600,30.6958,,C,0
+794,795,Classe econômica,"Dantcheff, Mr. Ristiu",male,25.0,0,0,349203,7.8958,,S,0
+795,796,Classe econômica premium,"Otter, Mr. Richard",male,39.0,0,0,28213,13.0,,S,0
+796,797,Primeira classe,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,17465,25.9292,D17,S,1
+797,798,Classe econômica,"Osman, Mrs. Mara",female,31.0,0,0,349244,8.6833,,S,1
+798,799,Classe econômica,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,2685,7.2292,,C,0
+799,800,Classe econômica,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,345773,24.15,,S,0
+800,801,Classe econômica premium,"Ponesell, Mr. Martin",male,34.0,0,0,250647,13.0,,S,0
+801,802,Classe econômica premium,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,C.A. 31921,26.25,,S,1
+802,803,Primeira classe,"Carter, Master. William Thornton II",male,11.0,1,2,113760,120.0,B96 B98,S,1
+803,804,Classe econômica,"Thomas, Master. Assad Alexander",male,0.42,0,1,2625,8.5167,,C,1
+804,805,Classe econômica,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,347089,6.975,,S,1
+805,806,Classe econômica,"Johansson, Mr. Karl Johan",male,31.0,0,0,347063,7.775,,S,0
+806,807,Primeira classe,"Andrews, Mr. Thomas Jr",male,39.0,0,0,112050,0.0,A36,S,0
+807,808,Classe econômica,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,347087,7.775,,S,0
+808,809,Classe econômica premium,"Meyer, Mr. August",male,39.0,0,0,248723,13.0,,S,0
+809,810,Primeira classe,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,113806,53.1,E8,S,1
+810,811,Classe econômica,"Alexander, Mr. William",male,26.0,0,0,3474,7.8875,,S,0
+811,812,Classe econômica,"Lester, Mr. James",male,39.0,0,0,A/4 48871,24.15,,S,0
+812,813,Classe econômica premium,"Slemen, Mr. Richard James",male,35.0,0,0,28206,10.5,,S,0
+813,814,Classe econômica,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,347082,31.275,,S,0
+814,815,Classe econômica,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,364499,8.05,,S,0
+815,816,Primeira classe,"Fry, Mr. Richard",male,,0,0,112058,0.0,B102,S,0
+816,817,Classe econômica,"Heininen, Miss. Wendla Maria",female,23.0,0,0,STON/O2. 3101290,7.925,,S,0
+817,818,Classe econômica premium,"Mallet, Mr. Albert",male,31.0,1,1,S.C./PARIS 2079,37.0042,,C,0
+818,819,Classe econômica,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,C 7075,6.45,,S,0
+819,820,Classe econômica,"Skoog, Master. Karl Thorsten",male,10.0,3,2,347088,27.9,,S,0
+820,821,Primeira classe,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,93.5,B69,S,1
+821,822,Classe econômica,"Lulic, Mr. Nikola",male,27.0,0,0,315098,8.6625,,S,1
+822,823,Primeira classe,"Reuchlin, Jonkheer. John George",male,38.0,0,0,19972,0.0,,S,0
+823,824,Classe econômica,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,12.475,E121,S,1
+824,825,Classe econômica,"Panula, Master. Urho Abraham",male,2.0,4,1,3101295,39.6875,,S,0
+825,826,Classe econômica,"Flynn, Mr. John",male,,0,0,368323,6.95,,Q,0
+826,827,Classe econômica,"Lam, Mr. Len",male,,0,0,1601,56.4958,,S,0
+827,828,Classe econômica premium,"Mallet, Master. Andre",male,1.0,0,2,S.C./PARIS 2079,37.0042,,C,1
+828,829,Classe econômica,"McCormack, Mr. Thomas Joseph",male,,0,0,367228,7.75,,Q,1
+829,830,Primeira classe,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,113572,80.0,B28,,1
+830,831,Classe econômica,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,2659,14.4542,,C,1
+831,832,Classe econômica premium,"Richards, Master. George Sibley",male,0.83,1,1,29106,18.75,,S,1
+832,833,Classe econômica,"Saad, Mr. Amin",male,,0,0,2671,7.2292,,C,0
+833,834,Classe econômica,"Augustsson, Mr. Albert",male,23.0,0,0,347468,7.8542,,S,0
+834,835,Classe econômica,"Allum, Mr. Owen George",male,18.0,0,0,2223,8.3,,S,0
+835,836,Primeira classe,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,83.1583,E49,C,1
+836,837,Classe econômica,"Pasic, Mr. Jakob",male,21.0,0,0,315097,8.6625,,S,0
+837,838,Classe econômica,"Sirota, Mr. Maurice",male,,0,0,392092,8.05,,S,0
+838,839,Classe econômica,"Chip, Mr. Chang",male,32.0,0,0,1601,56.4958,,S,1
+839,840,Primeira classe,"Marechal, Mr. Pierre",male,,0,0,11774,29.7,C47,C,1
+840,841,Classe econômica,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,SOTON/O2 3101287,7.925,,S,0
+841,842,Classe econômica premium,"Mudd, Mr. Thomas Charles",male,16.0,0,0,S.O./P.P. 3,10.5,,S,0
+842,843,Primeira classe,"Serepeca, Miss. Augusta",female,30.0,0,0,113798,31.0,,C,1
+843,844,Classe econômica,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,,C,0
+844,845,Classe econômica,"Culumovic, Mr. Jeso",male,17.0,0,0,315090,8.6625,,S,0
+845,846,Classe econômica,"Abbing, Mr. Anthony",male,42.0,0,0,C.A. 5547,7.55,,S,0
+846,847,Classe econômica,"Sage, Mr. Douglas Bullen",male,,8,2,CA. 2343,69.55,,S,0
+847,848,Classe econômica,"Markoff, Mr. Marin",male,35.0,0,0,349213,7.8958,,C,0
+848,849,Classe econômica premium,"Harper, Rev. John",male,28.0,0,1,248727,33.0,,S,0
+849,850,Primeira classe,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,,1,0,17453,89.1042,C92,C,1
+850,851,Classe econômica,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,2,347082,31.275,,S,0
+851,852,Classe econômica,"Svensson, Mr. Johan",male,74.0,0,0,347060,7.775,,S,0
+852,853,Classe econômica,"Boulos, Miss. Nourelain",female,9.0,1,1,2678,15.2458,,C,0
+853,854,Primeira classe,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,D28,S,1
+854,855,Classe econômica premium,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,0,244252,26.0,,S,0
+855,856,Classe econômica,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,392091,9.35,,S,1
+856,857,Primeira classe,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,36928,164.8667,,S,1
+857,858,Primeira classe,"Daly, Mr. Peter Denis ",male,51.0,0,0,113055,26.55,E17,S,1
+858,859,Classe econômica,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,2666,19.2583,,C,1
+859,860,Classe econômica,"Razi, Mr. Raihed",male,,0,0,2629,7.2292,,C,0
+860,861,Classe econômica,"Hansen, Mr. Claus Peter",male,41.0,2,0,350026,14.1083,,S,0
+861,862,Classe econômica premium,"Giles, Mr. Frederick Edward",male,21.0,1,0,28134,11.5,,S,0
+862,863,Primeira classe,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,25.9292,D17,S,1
+863,864,Classe econômica,"Sage, Miss. Dorothy Edith ""Dolly""",female,,8,2,CA. 2343,69.55,,S,0
+864,865,Classe econômica premium,"Gill, Mr. John William",male,24.0,0,0,233866,13.0,,S,0
+865,866,Classe econômica premium,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,236852,13.0,,S,1
+866,867,Classe econômica premium,"Duran y More, Miss. Asuncion",female,27.0,1,0,SC/PARIS 2149,13.8583,,C,1
+867,868,Primeira classe,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,PC 17590,50.4958,A24,S,0
+868,869,Classe econômica,"van Melkebeke, Mr. Philemon",male,,0,0,345777,9.5,,S,0
+869,870,Classe econômica,"Johnson, Master. Harold Theodor",male,4.0,1,1,347742,11.1333,,S,1
+870,871,Classe econômica,"Balkic, Mr. Cerin",male,26.0,0,0,349248,7.8958,,S,0
+871,872,Primeira classe,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,11751,52.5542,D35,S,1
+872,873,Primeira classe,"Carlsson, Mr. Frans Olof",male,33.0,0,0,695,5.0,B51 B53 B55,S,0
+873,874,Classe econômica,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,345765,9.0,,S,0
+874,875,Classe econômica premium,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,P/PP 3381,24.0,,C,1
+875,876,Classe econômica,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,2667,7.225,,C,1
+876,877,Classe econômica,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,0,7534,9.8458,,S,0
+877,878,Classe econômica,"Petroff, Mr. Nedelio",male,19.0,0,0,349212,7.8958,,S,0
+878,879,Classe econômica,"Laleff, Mr. Kristo",male,,0,0,349217,7.8958,,S,0
+879,880,Primeira classe,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,83.1583,C50,C,1
+880,881,Classe econômica premium,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,230433,26.0,,S,1
+881,882,Classe econômica,"Markun, Mr. Johann",male,33.0,0,0,349257,7.8958,,S,0
+882,883,Classe econômica,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,7552,10.5167,,S,0
+883,884,Classe econômica premium,"Banfield, Mr. Frederick James",male,28.0,0,0,C.A./SOTON 34068,10.5,,S,0
+884,885,Classe econômica,"Sutehall, Mr. Henry Jr",male,25.0,0,0,SOTON/OQ 392076,7.05,,S,0
+885,886,Classe econômica,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,382652,29.125,,Q,0
+886,887,Classe econômica premium,"Montvila, Rev. Juozas",male,27.0,0,0,211536,13.0,,S,0
+887,888,Primeira classe,"Graham, Miss. Margaret Edith",female,19.0,0,0,112053,30.0,B42,S,1
+888,889,Classe econômica,"Johnston, Miss. Catherine Helen ""Carrie""",female,,1,2,W./C. 6607,23.45,,S,0
+889,890,Primeira classe,"Behr, Mr. Karl Howell",male,26.0,0,0,111369,30.0,C148,C,1
+890,891,Classe econômica,"Dooley, Mr. Patrick",male,32.0,0,0,370376,7.75,,Q,0
